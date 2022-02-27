@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "My stuff"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Place to keep note of interesting suff I worked or am working on..
